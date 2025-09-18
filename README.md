@@ -34,3 +34,7 @@
 <hr />
 
 ## 6. <a name="supplemental">Supplemental Resources</a>
+
+* *[VMWare vs. Hyper-V Overview Guide](https://github.com/chaseofthejungle/vmware-vs-hyperv)*
+* *[Ubiquiti and Cisco Meraki Overview Guide](https://github.com/chaseofthejungle/unifi-vs-cisco-meraki)*
+* *[Intro to IP Telephony Overview Guide](https://github.com/chaseofthejungle/intro-to-ip-telephony)*
