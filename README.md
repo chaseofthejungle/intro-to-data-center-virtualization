@@ -2,6 +2,8 @@
 
 **TODO:** A brief introductory guide to data center virtualization.
 
+**Description/Overview:** When considering large (and growing) data volumes, server rack space, power sustainability, and apps with high scalability needs, data centers are faced with a need to accommodate storage (both digital and physical), performance/efficiency, and even availability concerns. While some of these issues can be handled by renting more physical space, this can be costly, time-consuming to implement, and otherwise impractical. Virtualized data centers (with virtual storage, servers, and infrastructure) provide a means for avoiding, or at least mitigating, such set backs while allowing for both on-premises and cloud-based management solutions.
+
 #### Table of Contents
 
 1. [Defining Data Center Virtualization](#define)
